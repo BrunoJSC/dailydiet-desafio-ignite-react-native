@@ -1,5 +1,7 @@
-DailyDiet
-Descrição
+# DailyDiet
+
+- Descrição:
+
 O "DailyDiet" é um aplicativo para controle de dieta, que permite ao usuário cadastrar seus pratos e refeições diárias, além de visualizar um gráfico com informações sobre sua ingestão de nutrientes.
 
 Este projeto foi desenvolvido como parte do desafio do curso "Ignite React Native" da Rocketseat.
